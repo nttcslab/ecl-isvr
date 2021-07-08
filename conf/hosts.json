@@ -1,0 +1,19 @@
+{
+  "hosts": [
+    {
+      "name": "CASPER",
+      "addr": "localhost",
+      "port": "9997"
+    },
+    {
+      "name": "BALTHASAR",
+      "addr": "localhost",
+      "port": "9998"
+    },
+    {
+      "name": "MELCHIOR",
+      "addr": "localhost",
+      "port": "9999"
+    }
+  ]
+}

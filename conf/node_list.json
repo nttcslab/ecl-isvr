@@ -1,0 +1,28 @@
+{
+  "nodes" : {
+    "CASPER": {
+      "device": "cuda",
+      "round": 10,
+      "edges": {
+        "BALTHASAR": 1,
+        "MELCHIOR": 8
+      }
+    },
+    "BALTHASAR": {
+      "device": "cuda",
+      "round": 10,
+      "edges": {
+        "CASPER": 4,
+        "MELCHIOR": 2
+      }
+    },
+    "MELCHIOR": {
+      "device": "cuda",
+      "round": 10,
+      "edges": {
+        "BALTHASAR": 7,
+        "CASPER": 5
+      }
+    }
+  }
+}

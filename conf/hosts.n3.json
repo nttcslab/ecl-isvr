@@ -1,0 +1,19 @@
+{
+  "hosts": [
+    {
+      "name": "node0",
+      "addr": "localhost",
+      "port": "10000"
+    },
+    {
+      "name": "node1",
+      "addr": "localhost",
+      "port": "10001"
+    },
+    {
+      "name": "node2",
+      "addr": "localhost",
+      "port": "10002"
+    }
+  ]
+}

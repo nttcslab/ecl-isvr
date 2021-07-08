@@ -1,0 +1,44 @@
+{
+  "hosts": [
+    {
+      "name": "node0",
+      "addr": "localhost",
+      "port": "10000"
+    },
+    {
+      "name": "node1",
+      "addr": "localhost",
+      "port": "10001"
+    },
+    {
+      "name": "node2",
+      "addr": "localhost",
+      "port": "10002"
+    },
+    {
+      "name": "node3",
+      "addr": "localhost",
+      "port": "10003"
+    },
+    {
+      "name": "node4",
+      "addr": "localhost",
+      "port": "10004"
+    },
+    {
+      "name": "node5",
+      "addr": "localhost",
+      "port": "10005"
+    },
+    {
+      "name": "node6",
+      "addr": "localhost",
+      "port": "10006"
+    },
+    {
+      "name": "node7",
+      "addr": "localhost",
+      "port": "10007"
+    }
+  ]
+}
