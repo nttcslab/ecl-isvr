@@ -27,11 +27,10 @@ Conference: Proceedings of the 38th International Conference on Machine Learning
 
 After checking the license file, start the installation by following the guide.
 
-## Installation
+## Setup Environment
 ### On Linux
 ```shell script
 pip install -r requirements.txt
-python setup.py install
 ```
 
 ### On Windows  
@@ -41,7 +40,6 @@ https://pytorch.org/
 After that, the procedure is identical as for Linux.
 ```commandline
 pip install -r requirements.txt
-python setup.py install
 ```
 
 ## Setup files
