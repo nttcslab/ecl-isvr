@@ -12,7 +12,7 @@ matplotlib==3.3.2
 networkx==2.5
 numpy==1.19.2
 pandas==1.1.3
-Pillow==8.0.0
+Pillow>=8.0.0
 protobuf==3.13.0
 pydicom==2.0.0
 pyparsing==2.4.7
@@ -32,5 +32,5 @@ torchsummary==1.5.1
 torchvision==0.7.0
 torchxrayvision==0.0.18
 tqdm==4.50.2
-urllib3==1.25.10
+urllib3>=1.25.10
 zmq==0.0.0
